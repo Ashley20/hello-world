@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Dockerize a hello world NodeJS application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashley20/hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "docker"
+  ],
+  "author": "Didem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashley20/hello-world/issues"
+  },
+  "homepage": "https://github.com/Ashley20/hello-world#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
